@@ -6,3 +6,5 @@ git is afree software。
 改1
 改2
 git remote add ori master
+
+branchs are good
