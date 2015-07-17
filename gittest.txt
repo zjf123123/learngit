@@ -1,8 +1,7 @@
-git is version control system
+﻿git is version control system
 git is afree software。
+哈哈哈哈哈
+学习学习
+修改
 
-哈哈哈哈哈我修改了
-
-I changed it.
-
-第三次修改
+继续修改
