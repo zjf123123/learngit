@@ -7,4 +7,4 @@ git is afree software。
 改2
 git remote add ori master
 
-branchs are good
+branchs are and is good
