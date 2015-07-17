@@ -4,3 +4,5 @@ git is afree software。
 学习学习
 修改
 改1
+改2
+git remote add ori master
